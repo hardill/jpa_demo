@@ -1,5 +1,5 @@
 /**
- * 
+ *
  */
 package com.demo.jpa.controller.base;
 
@@ -9,7 +9,7 @@ import lombok.NoArgsConstructor;
 
 /**
  * 控制层统一返回数据格式
- * 
+ *
  * @author Administrator
  *
  */
